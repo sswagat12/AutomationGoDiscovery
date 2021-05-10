@@ -10,9 +10,9 @@ Please follow the below steps for a successful run:
   (c) pip install robotframework-selenium2library
  
 3. Clone/ Download the repository
-4. Navigate to test folde in Pycharm and run the following command in console:
+4. Navigate to test folder in Pycharm (Assuming that you have opened the project in Pycharm/ similar IDE now) and run the following command in console:
     robot FavouriteShows.robot
 5. Done
   You must see the automation of the page done and a json file will be dumped inside your tests folder containing all the favourite show titles and duration as key value pairs.
   
-  Please feel free to contact me in case of any queries....Swagat: +91 700 814 6550
+  Please feel free to contact me in case of any queries....Swagat: sswagat12@gmail.com
